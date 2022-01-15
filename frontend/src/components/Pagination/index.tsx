@@ -18,7 +18,7 @@ function Pagination({ page, onChange }: Props) {
         >
           <Arrow />
         </button>
-        <p>{`${page.number + 1} de ${page.totalPages}`}</p>
+        <p>{`${page.number + 1} of ${page.totalPages}`}</p>
         <button
           className="dsmovie-pagination-button"
           disabled={page.last}
