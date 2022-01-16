@@ -23,8 +23,8 @@ INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'The Silence of t
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Fight Club', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/hZkgoQYus5vegHoetLkCJzb17zJ.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'World War Z', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/31VpBgUX5O4Z3dn5ZbX8HLqoXH3.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Harry Potter and the Deathly Hallows: Part 1', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/vcrgU0KaNj5mKUCIQSUdiQwTE9y.jpg');
-INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Harry Potter and the Sorcerer's Stone', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/lvOLivVeX3DVVcwfVkxKf0R22D8.jpg');
-INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Alice's Adventures in Wonderland', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/qNdlZgz9yoSJ8f0YxQWfKGPoVV.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Harry Potter and the Sorcerers Stone', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/lvOLivVeX3DVVcwfVkxKf0R22D8.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Alices Adventures in Wonderland', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/qNdlZgz9yoSJ8f0YxQWfKGPoVV.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Fantastic Beasts', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/8Qsr8pvDL3s1jNZQ4HK1d1Xlvnh.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'The Theory of Everything', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/kq2MHrRfH6RTfkvyDEmYLmGHE6U.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'The Book of Boba Fett', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg');
