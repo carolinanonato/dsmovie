@@ -16,7 +16,7 @@ INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Birds of Prey', 
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Rogue One', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Star Wars: The Clone Wars', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/uK15I3sGd8AudO9z6J6vi0HH1UU.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Star Wars: Episode I - The Phantom Menace', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/36LnijfQCOC89rCMOhn2OINXROI.jpg');
-INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Avengers: Endgame', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Avengers : Endgame', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Thor', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Black Swan', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/hqh5O4KssfJWI62HGAgrjHXbxhD.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'The Silence of the Lambs', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/mfwq2nMBzArzQ7Y9RKE8SKeeTkg.jpg');
