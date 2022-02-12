@@ -2,8 +2,6 @@
 
 This is my first full stack application. It's made using Spring Boot and React JS. Also, my first time using pgAdmin, Postman, Heroku and Netlify.
 
-You can check it here: https://carolinadsmovie.netlify.app/
-
 ## Features:
 
 - Movie catalog
